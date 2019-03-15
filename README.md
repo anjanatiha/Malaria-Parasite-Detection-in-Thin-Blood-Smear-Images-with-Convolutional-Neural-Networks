@@ -54,7 +54,7 @@ Number of Class         : 2
 
 ### Model Performance Metrics (Prediction/ Recognition / Classification)
 | Dataset              | Training       | Validation    | Test      |                                 
-| :------------------- | -------------: | ------------: | --------: |
+|:---------------------|---------------:|--------------:| ---------:|
 | **Accuracy**         | 96.47%         | 95.72%        | -         |
 | **Loss**             | 0.1025         | 0.1385        | -         |
 | **Precision**        | ---            | ---           | -         |
@@ -64,7 +64,7 @@ Number of Class         : 2
 
 ### Other Experimented Model and Training Prameters
 | Parameters (Experimented) | Value                                                  |
-| :------------------------ | -----------------------------------------------------: |
+|:--------------------------|-------------------------------------------------------:|
 | **Base Models**           | NashNet(NashNetMobile)                                 |
 | **Optimizers**            | Adam                                                   |
 | **Loss Function**         | Categorical Crossentropy                               |
