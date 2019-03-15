@@ -8,9 +8,9 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 
 ### Description
 <pre>
-1. Detected Cancer from microscopic tissue images (histopathologic) with Auto ML (Google’s “NASNet”).
+1. Detected Malaria from microscopic tissue images with Auto ML (Google's "NASNet").
 2. For training, concatenated global pooling (max, average), dropout and dense layers to the output layer for final output prediction.
-3. Attained validation accuracy of 95.6% and loss 0.30 on 250K+ (6.5GB+) image cancer dataset.
+3. Attained validation accuracy of 95.72% and loss 0.1385 on 250K+ (6.5GB+) image cancer dataset.
 </pre>
 
 #### Code
@@ -62,7 +62,7 @@ Number of Class         : 2
 | Dataset              | Training       | Validation    | Test      |                                 
 | :------------------- | -------------: | ------------: | --------: |
 | **Accuracy**         | 96.47%         | 95.72%        | -         |
-| **Loss**             | 0.14           | 0.30          | -         |
+| **Loss**             | 0.1025         | 0.1385        | -         |
 | **Precision**        | ---            | ---           | -         |
 | **Recall**           | ---            | ---           | -         |
 | **Roc-Auc**          | ---            | ---           | -         |
