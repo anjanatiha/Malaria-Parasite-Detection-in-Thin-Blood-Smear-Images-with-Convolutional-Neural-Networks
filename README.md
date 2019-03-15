@@ -1,4 +1,4 @@
-### Malaria Detection from Microscopic-Tissue Images with Deep Learning (Auto ML, Custom Convolutional Neural Network, NasNetMobile) 
+### Malaria Detection from Microscopic-Tissue Images with Deep Learning (Auto ML, NasNetMobile) 
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
