@@ -36,16 +36,16 @@ Number of Class         : 2
 | Dataset Subtype | Number of Image | Size(MB/Megabyte)            |
 | :-------------- | --------------: | ---------------------------: |
 | **Total**       | 27,588          | 337 MB                       |
-| **Training**    | 20,670          |   MB                         |
-| **Validation**  | 6,888           |   MB                         |
-| **Testing**     |                 |                              |
+| **Training**    | 20,670          | ---                          |
+| **Validation**  | 6,888           | ---                          |
+| **Testing**     | ---             | ---                          |
 
 | Dataset Subtype | Number of Image | Size of Images (GB/Gigabyte) |
 | :-------------- | --------------: | ---------------------------: |
 | **Total**       | 27,588          | 337 MB                       |
-| **Training**    | 20,670          |                              |
-| **Validation**  | 6,888           |                              |
-| **Testing**     |                 |                              |
+| **Training**    | 20,670          | ---                          |
+| **Validation**  | 6,888           | ---                          |
+| **Testing**     | ---             | ---                          |
 
 
 
@@ -64,11 +64,11 @@ Number of Class         : 2
 ### Model Performance Metrics (Prediction/ Recognition / Classification)
 | Dataset              | Training       | Validation    | Test      |                                 
 |:---------------------|---------------:|--------------:| ---------:|
-| **Accuracy**         | 96.47%         | 95.72%        | -         |
-| **Loss**             | 0.1025         | 0.1385        | -         |
-| **Precision**        | ---            | ---           | -         |
-| **Recall**           | ---            | ---           | -         |
-| **Roc-Auc**          | ---            | ---           | -         |
+| **Accuracy**         | 96.47%         | 95.72%        | ---       |
+| **Loss**             | 0.1025         | 0.1385        | ---       |
+| **Precision**        | ---            | ---           | ---       |
+| **Recall**           | ---            | ---           | ---       |
+| **Roc-Auc**          | ---            | ---           | ---       |
 
 
 ### Other Experimented Model and Training Prameters
