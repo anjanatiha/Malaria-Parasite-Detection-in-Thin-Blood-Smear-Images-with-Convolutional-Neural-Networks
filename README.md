@@ -10,7 +10,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 <pre>
 1. Detected Malaria from microscopic tissue images with Auto ML (Google's "NASNet").
 2. For training, concatenated global pooling (max, average), dropout and dense layers to the output layer for final output prediction.
-3. Attained validation accuracy of 95.72% and loss 0.1385 on 250K+ (6.5GB+) image cancer dataset.
+3. Attained validation accuracy of 95.72% and loss 0.1385 on 27K+ (330MB+) image cancer dataset.
 </pre>
 
 #### Code
