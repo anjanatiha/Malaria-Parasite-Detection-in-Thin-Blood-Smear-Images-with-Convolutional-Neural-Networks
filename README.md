@@ -73,20 +73,6 @@ Number of Class         : 2
 | **Number of Epochs**      | 10                                                     |
 | **Training Time**         | 45 Min                                                 |
 
-<!---
-##### Sample Output: 
-<kbd>
-<img src=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/sample/sample.png>
-</kbd>
-<kbd>
-<a href=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/images/result.png>See More Images</a>
-</kbd>
-##### Confusion Matrix: 
-<kbd>
-<img src=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
-</kbd>
--->
-
 #### Tools / Libraries
 <pre>
 Languages               : Python
