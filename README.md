@@ -39,6 +39,14 @@ Number of Class         : 2
 | **Validation**  | 6,888           |   MB                         |
 | **Testing**     |                 |                              |
 
+| Dataset Subtype | Number of Image | Size of Images (GB/Gigabyte) |
+| :-------------- | --------------: | ---------------------------: |
+| **Total**       | 27,588          | 337 MB                       |
+| **Training**    | 20,670          |                              |
+| **Validation**  | 6,888           |                              |
+| **Testing**     |                 |                              |
+
+
 
 ### Model and Training Prameters
 | Current Parameters   | Value                                                       |
