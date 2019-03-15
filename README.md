@@ -25,13 +25,6 @@ Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's 
 <pre>
 Dataset Name     : Malaria Cell Images Dataset
 Dataset Link     : <a href=https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria>Malaria Cell Images Dataset (Kaggle)</a>
-<!---                 
-Original Paper   : <a href=https://jamanetwork.com/journals/jama/fullarticle/2665774>Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer </a> 
-                   Authors: Babak Ehteshami Bejnordi, Mitko Veta, Paul Johannes van Diest 
-                   JAMA (The Journal of the American Medical Association)
-                   <cite>Ehteshami Bejnordi B, Veta M, Johannes van Diest P, et al. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA. 2017;318(22):2199–2210. doi:10.1001/jama.2017.14585</cite>
-</pre>
--->
 
 ### Dataset Details
 <pre>
@@ -93,6 +86,7 @@ Number of Class         : 2
 <img src=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
 </kbd>
 -->
+
 #### Tools / Libraries
 <pre>
 Languages               : Python
