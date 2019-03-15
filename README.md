@@ -25,6 +25,7 @@ Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's 
 <pre>
 Dataset Name     : Malaria Cell Images Dataset
 Dataset Link     : <a href=https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria>Malaria Cell Images Dataset (Kaggle)</a>
+</pre>
 
 ### Dataset Details
 <pre>
