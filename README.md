@@ -51,7 +51,7 @@ Number of Class         : 2
 
 ### Model and Training Prameters
 | Current Parameters   | Value                                                       |
-| :------------------- | ----------------------------------------------------------: |
+| :------------------- | :---------------------------------------------------------- |
 | **Base Model**       | NashNetMobile                                               |
 | **Optimizers**       | Adam                                                        |
 | **Loss Function**    | Categorical Crossentropy                                    |
@@ -73,7 +73,7 @@ Number of Class         : 2
 
 ### Other Experimented Model and Training Prameters
 | Parameters (Experimented) | Value                                                  |
-|:--------------------------|-------------------------------------------------------:|
+|:--------------------------|:------------------------------------------------------ |
 | **Base Models**           | NashNet(NashNetMobile)                                 |
 | **Optimizers**            | Adam                                                   |
 | **Loss Function**         | Categorical Crossentropy                               |
