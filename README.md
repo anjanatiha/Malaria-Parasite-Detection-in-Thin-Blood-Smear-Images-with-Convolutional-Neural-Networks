@@ -7,8 +7,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 </pre>
 
 ### Description
-1. Detected Malaria from segmented cells from the thin blood smear slide images with Deep Learning (Convolutional Neural Network).
-2. For training, used Malaria Dataset from Malaria screening research activity by National Institutes of Health (NIH).
+1. Detected Malaria from segmented cells from the thin blood smear slide images from Malaria screening research activity by National Institutes of Health (NIH) with Deep Learning (Convolutional Neural Network).
 2. Before feeding data into model, preprocessed and augmented image dataset containing 27,558 images (337MB) by adding random flips, rotations and shears.
 3. For training, used pretrained model Nashnet and trained completely from scratch.
 4. After loading pretrainied model NasNetMobile, added global max pooling, global average pooling, flattened layer to output of trained model and concatenated them.
