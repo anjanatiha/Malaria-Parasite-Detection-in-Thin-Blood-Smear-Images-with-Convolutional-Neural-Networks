@@ -8,9 +8,15 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 
 ### Description
 <pre>
-1. Detected Malaria from microscopic tissue images by completely retraining pretrained model (Google's "NASNet") from scratch.
-2. For training, concatenated global max pooling, global average pooling, flattened output, then added a dense layer with batch normalization and dropout and give to the output layer for final output prediction.
-3. Attained validation accuracy of 95.72% and loss 0.1385 on 27K+ (330MB+) image malaria dataset.
+1. Detected Malaria from segmented cells from the thin blood smear slide images with Deep Learning (Convolutional Neural Network).
+2. For training, used Malaria Dataset from Malaria screening research activity by National Institutes of Health (NIH).
+2. Before feeding data into model, preprocessed and augmented image dataset containing 27,558 images (337MB) by adding random flips, rotations and shears.
+3. For training, used pretrained model Nashnet and trained completely from scratch.
+4. After loading pretrainied model NasNetMobile, added global max pooling, global average pooling, flattened layer to output of trained model and concatenated them.
+5. Added dropout and batch normalization layers for regularization. 
+6. Added final output layer with - a dense layer with softmax activation and compiled with optimizer Adam with learning rate 0.001,  metric- accuracy and loss-categorical crossentropy.
+7. Trained for 10 iterations and attained training accuracy 96.47% and loss(categorical crossentrpy) 0.1026 and 7validation accuracy of 95.46% and loss 0.1385.
+
 </pre>
 
 #### Code
@@ -25,7 +31,7 @@ Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's 
 <pre>
 Dataset Name     : Malaria Cell Images Dataset
 Dataset Link     : <a href=https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria>Malaria Cell Images Dataset (Kaggle)</a>
-Original Dataset : <a href=https://ceb.nlm.nih.gov/repositories/malaria-datasets/>Malaria Datasets -National Institutes of Health (NIH)</a>
+Original Dataset : <a href=https://ceb.nlm.nih.gov/repositories/malaria-datasets/>Malaria Datasets - National Institutes of Health (NIH)</a>
 </pre>
 
 ### Dataset Details
