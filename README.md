@@ -21,6 +21,23 @@ Kaggle Kernel    : <a href=https://www.kaggle.com/anjanatiha/malaria-detection-u
 Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
 </pre>
 
+#### Relevant Papers
+<pre>
+GitHub Link      : <https://peerj.com/articles/4568/>Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images (peerj)</a>
+
+@article{rajaraman2018pre,
+  title={Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images},
+  author={Rajaraman, Sivaramakrishnan and Antani, Sameer K and Poostchi, Mahdieh and Silamut, Kamolrat and Hossain, Md A and Maude, Richard J and Jaeger, Stefan and Thoma, George R},
+  journal={PeerJ},
+  volume={6},
+  pages={e4568},
+  year={2018},
+  publisher={PeerJ Inc.}
+}
+</pre>
+
+
+
 #### Dataset
 <pre>
 Dataset Name     : Malaria Cell Images Dataset
