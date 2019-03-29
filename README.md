@@ -7,7 +7,6 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 </pre>
 
 ### Description
-<pre>
 1. Detected Malaria from segmented cells from the thin blood smear slide images with Deep Learning (Convolutional Neural Network).
 2. For training, used Malaria Dataset from Malaria screening research activity by National Institutes of Health (NIH).
 2. Before feeding data into model, preprocessed and augmented image dataset containing 27,558 images (337MB) by adding random flips, rotations and shears.
@@ -16,7 +15,6 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 5. Added dropout and batch normalization layers for regularization. 
 6. Added final output layer with - a dense layer with softmax activation and compiled with optimizer Adam with learning rate 0.001,  metric- accuracy and loss-categorical crossentropy.
 7. Trained for 10 iterations and attained training accuracy 96.47% and loss(categorical crossentrpy) 0.1026 and validation accuracy of 95.46% and loss 0.1385.
-</pre>
 
 #### Code
 <pre>
@@ -97,7 +95,7 @@ Libraries               : Keras, TensorFlow, NasNetMobile
 
 #### Dates
 <pre>
-Duration                : February 2019 - Current
+Duration                : February 2019 - April 2019
 Current Version         : v1.0.0.9
 Last Update             : 03.14.2019
 </pre>
