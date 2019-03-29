@@ -1,4 +1,5 @@
-### Malaria Detection from Segmented Cells from the thin blood smear slides with Deep Learning (NasNetMobile) 
+### Malaria Parasite Detection in Thin Blood Smear Images by Retraining Fully Pretrained Convolutional Neural Networks (NasNetMobile) 
+
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
@@ -7,7 +8,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 </pre>
 
 ### Description
-1. Detected Malaria from segmented cells from the thin blood smear slide images collected from Malaria screening research activity by National Institutes of Health (NIH) with Deep Learning (Convolutional Neural Network) specifically by training pretrained model Nashnet completely from scratch.
+1. Detected Malaria Parasites from thin Blood Smear images collected from Malaria screening research activity by National Institutes of Health (NIH) with Deep Learning (Convolutional Neural Network) specifically by retraining pretrained model NaNetMobile completely from scratch.
 2. Before feeding data into model, preprocessed and augmented image dataset containing 27,558 images (337MB) by adding random flips, rotations and shears.
 3. After loading pretrainied model NasNetMobile, added global max pooling, global average pooling, flattened layer to output of trained model and concatenated them. Also added dropout and batch normalization layers for regularization before adding final output layer - a dense layer with softmax activation and compiling with optimizer-Adam with learning rate-0.0001, metric-accuracy and loss-categorical crossentropy.
 4. Trained for 10 iterations and attained training accuracy 96.47% and loss(categorical crossentrpy) 0.1026 and validation accuracy of 95.46% and loss 0.1385.
