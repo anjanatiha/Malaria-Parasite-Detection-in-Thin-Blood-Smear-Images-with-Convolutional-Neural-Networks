@@ -2,8 +2,8 @@
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
-Techniques         : Deep Convolutional Neural Network, Transfer Learning, ImageNet, NASNetMobile
-Application        : Image Recognition, Image Classification, Medical Imaging
+Techniques         : Deep Convolutional Neural Network, Transfer Learning, NASNetMobile
+Application        : Image Recognition, Image Classification, Medical Imaging, Bio-Medical Imaging
 </pre>
 
 ### Description
@@ -25,6 +25,7 @@ Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's 
 <pre>
 Dataset Name     : Malaria Cell Images Dataset
 Dataset Link     : <a href=https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria>Malaria Cell Images Dataset (Kaggle)</a>
+Original Dataset : <a href=https://ceb.nlm.nih.gov/repositories/malaria-datasets/>Malaria Datasets -National Institutes of Health (NIH)</a>
 </pre>
 
 ### Dataset Details
