@@ -1,4 +1,4 @@
-### Malaria Detection from Microscopic-Tissue Images with Deep Learning (NasNetMobile) 
+### Malaria Detection from Segmented Cells from the thin blood smear slides with Deep Learning (NasNetMobile) 
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
