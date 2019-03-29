@@ -2,15 +2,15 @@
 <pre>
 Domain             : Computer Vision, Machine Learning
 Sub-Domain         : Deep Learning, Image Recognition
-Techniques         : Deep Convolutional Neural Network, Transfer Learning, ImageNet, Auto ML, NASNetMobile
+Techniques         : Deep Convolutional Neural Network, Transfer Learning, ImageNet, NASNetMobile
 Application        : Image Recognition, Image Classification, Medical Imaging
 </pre>
 
 ### Description
 <pre>
-1. Detected Malaria from microscopic tissue images with Auto ML (Google's "NASNet").
-2. For training, concatenated global pooling (max, average), dropout and dense layers to the output layer for final output prediction.
-3. Attained validation accuracy of 95.72% and loss 0.1385 on 27K+ (330MB+) image cancer dataset.
+1. Detected Malaria from microscopic tissue images by completely retraining pretrained model (Google's "NASNet") from scratch.
+2. For training, concatenated global max pooling, global average pooling, flattened output, then added a dense layer with batch normalization and dropout and give to the output layer for final output prediction.
+3. Attained validation accuracy of 95.72% and loss 0.1385 on 27K+ (330MB+) image malaria dataset.
 </pre>
 
 #### Code
