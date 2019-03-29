@@ -15,8 +15,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging, B
 4. After loading pretrainied model NasNetMobile, added global max pooling, global average pooling, flattened layer to output of trained model and concatenated them.
 5. Added dropout and batch normalization layers for regularization. 
 6. Added final output layer with - a dense layer with softmax activation and compiled with optimizer Adam with learning rate 0.001,  metric- accuracy and loss-categorical crossentropy.
-7. Trained for 10 iterations and attained training accuracy 96.47% and loss(categorical crossentrpy) 0.1026 and 7validation accuracy of 95.46% and loss 0.1385.
-
+7. Trained for 10 iterations and attained training accuracy 96.47% and loss(categorical crossentrpy) 0.1026 and validation accuracy of 95.46% and loss 0.1385.
 </pre>
 
 #### Code
@@ -71,8 +70,8 @@ Number of Class         : 2
 ### Model Performance Metrics (Prediction/ Recognition / Classification)
 | Dataset              | Training       | Validation    | Test      |                                 
 |:---------------------|---------------:|--------------:| ---------:|
-| **Accuracy**         | 96.47%         | 95.72%        | ---       |
-| **Loss**             | 0.1025         | 0.1385        | ---       |
+| **Accuracy**         | 96.47%         | 95.46%        | ---       |
+| **Loss**             | 0.1026         | 0.1385        | ---       |
 | **Precision**        | ---            | ---           | ---       |
 | **Recall**           | ---            | ---           | ---       |
 | **Roc-Auc**          | ---            | ---           | ---       |
