@@ -24,7 +24,7 @@ Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's 
 #### Relevant Papers
 <pre>
 GitHub Link      : <https://peerj.com/articles/4568/>Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images (peerj)</a>
-
+<pre>
 @article{rajaraman2018pre,
   title={Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images},
   author={Rajaraman, Sivaramakrishnan and Antani, Sameer K and Poostchi, Mahdieh and Silamut, Kamolrat and Hossain, Md A and Maude, Richard J and Jaeger, Stefan and Thoma, George R},
@@ -33,8 +33,10 @@ GitHub Link      : <https://peerj.com/articles/4568/>Pre-trained convolutional n
   pages={e4568},
   year={2018},
   publisher={PeerJ Inc.}
-}
 </pre>
+</pre>
+
+
 
 
 
