@@ -49,13 +49,6 @@ Dataset Name            : Malaria Cell Images Dataset
 Number of Class         : 2
 </pre>
 
-| Dataset Subtype | Number of Image | Size(MB/Megabyte)            |
-| :-------------- | --------------: | ---------------------------: |
-| **Total**       | 27,588          | 337 MB                       |
-| **Training**    | 20,670          | ---                          |
-| **Validation**  | 6,888           | ---                          |
-| **Testing**     | ---             | ---                          |
-
 | Dataset Subtype | Number of Image | Size of Images (GB/Gigabyte) |
 | :-------------- | --------------: | ---------------------------: |
 | **Total**       | 27,588          | 337 MB                       |
